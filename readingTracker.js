@@ -1,3 +1,4 @@
+// Nina Janev
 // GitHub Repo URL: https://github.com/yanevah/cs81-module4a-reviewtracker
 
 // Weekly reading log
