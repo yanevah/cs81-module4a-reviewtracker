@@ -1,3 +1,5 @@
+// GitHub Repo URL: https://github.com/yanevah/cs81-module4a-reviewtracker
+
 // Weekly reading log
 // Each object in the array represents a day's reading activity,
 // including the day, the book read, and minutes spent reading.
@@ -87,5 +89,5 @@ console.log("Most read book:", mostReadBook(readingLog)); // Finds the book read
 addBook("The Hobbit", 310);
 console.log(readingLog); // Verify it was added
 
-// GitHub Repo URL: https://github.com/yanevah/cs81-module4a-reviewtracker
+
 
